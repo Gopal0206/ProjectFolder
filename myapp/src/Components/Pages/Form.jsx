@@ -9,11 +9,11 @@ function Form() {
 	<form className="form">
 		<div className="input-group">
 			<label for="username">Username</label>
-			<input type="text" name="username" id="username" placeholder=""/>
+			<input type="text" name="username" id="username" placeholder="Enter Your username"/>
 		</div>
 		<div className="input-group">
 			<label for="password">Password</label>
-			<input type="password" name="password" id="password" placeholder=""/>
+			<input type="password" name="password" id="password" placeholder="Enter Your password"/>
 			<div className="forgot">
 				<a rel="noopener noreferrer" href="#">Forgot Password ?</a>
 			</div>
